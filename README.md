@@ -18,7 +18,7 @@
 
 ## 📪 my contacts
 
-kudishinajulia@icloud.com
+kudishinajulia@icloud.com <br>
 [<span style="background-color: blue;"><img src="https://storage.yandexcloud.net/s3-metaratings-storage/images/88/a1/88a1e896eff59f6bfe18770bfe4c399b.jpg" alt="телеграм" width="80"/></span>](https://t.me/Juliakudishina)
 
 
