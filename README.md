@@ -9,6 +9,4 @@
 💻 Сейчас активно ищу работу.[<span style="background-color: blue;">А это мое резюме.</span>](https://disk.yandex.ru/i/DUDc6aA37fEQfQ) <br>
 
 ---------
-
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) |
-| React              | ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) |
+| Git                | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50"/> |
