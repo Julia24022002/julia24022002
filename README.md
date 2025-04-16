@@ -1,4 +1,4 @@
-## Hi there 👋
+## Всем привет, меня зовую Юля 👋
 
 <!--
 **Julia24022002/julia24022002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
