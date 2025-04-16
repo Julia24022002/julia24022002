@@ -19,6 +19,7 @@
 ## 📪 my contacts
 
 kudishinajulia@icloud.com <br>
+<br>
 [<span style="background-color: blue;"><img src="https://internet-lab.ru/sites/internet-lab.ru/files/2022-09/telegram.png" alt="телеграм" width="80"/></span>](https://t.me/Juliakudishina)
 
 
