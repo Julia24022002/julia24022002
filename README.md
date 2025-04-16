@@ -2,7 +2,7 @@
 
 <!--
 **Julia24022002/julia24022002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Я - фронтенд разработчица из России
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![React](https://example.com/react-logo.png)
-![CSS](https://example.com/css-logo.png)
+
