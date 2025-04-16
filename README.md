@@ -18,6 +18,7 @@
 
 ## 📪 my contacts
 
-[<span style="background-color: blue;"><img src="https://itech.co.ua/wp-content/uploads/2022/12/icloud-mail-1024x576.jpg" alt="почта" width="50"/></span>](https://disk.yandex.ru/i/DUDc6aA37fEQfQ)
+kudishinajulia@icloud.com
+[<span style="background-color: blue;"><img src="https://storage.yandexcloud.net/s3-metaratings-storage/images/88/a1/88a1e896eff59f6bfe18770bfe4c399b.jpg" alt="телеграм" width="50"/></span>](https://t.me/Juliakudishina)
 
 
