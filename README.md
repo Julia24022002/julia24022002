@@ -1,9 +1,7 @@
 ## Всем привет, меня зовую Юля 👋
 
-<!--
-**Julia24022002/julia24022002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Я - фронтенд разработчица из России
-Here are some ideas to get you started:
+Я - фронтенд разработчица из России 👩🏼‍💻
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Я - фронтенд разработчица из России
+
