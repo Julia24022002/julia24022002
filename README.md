@@ -9,4 +9,4 @@
 💻 Сейчас активно ищу работу.[<span style="background-color: blue;">А это мое резюме.</span>](https://disk.yandex.ru/i/DUDc6aA37fEQfQ) <br>
 
 ---------
-| Git                | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50"/> |
+ <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50"/> | 
