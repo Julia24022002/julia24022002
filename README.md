@@ -9,10 +9,7 @@
 💻 Сейчас активно ищу работу.[<span style="background-color: blue;">А это мое резюме.</span>](https://disk.yandex.ru/i/DUDc6aA37fEQfQ) <br>
 
 ---------
-
- <img src="https://www.python.org/community/logos/python-logo.png" alt="Python" width="50"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"/> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50"/> 
 
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/> 
  <img src="https://www.mongodb.com/assets/images/global/logo.svg" alt="MongoDB" width="50"/> 
